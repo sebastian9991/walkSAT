@@ -5,3 +5,7 @@ This code seeks to provide a stochastic algorithm to the boolean satisfiability 
 ## Rough explanation
 runSAT.java outputs a graph showing the number of flips and terminations (That is, satisfied) as the C/N ratio increases. Where C is the number of conjunctions and N the number of statements, for which N $<=$ 10.
 
+##Outputs: 
+
+
+
